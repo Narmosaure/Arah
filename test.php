@@ -12,6 +12,7 @@ class test
         else{
             $rep = 3;
         }
+        echo "arah";
         return $rep;
     }
 
